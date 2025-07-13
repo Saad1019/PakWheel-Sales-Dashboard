@@ -47,7 +47,7 @@ To view the `.pbix` file:
 **Muhammad Saad Naeem**  
 Aspiring Data Analyst | Passionate about turning raw data into actionable insights  
 📧 saadkamyana123@email.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/saadi-naeem/) *(replace with your link)*
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/saadi-naeem/)
 
 ---
 
